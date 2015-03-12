@@ -1,0 +1,7 @@
+click==3.3
+oauthlib==0.7.2
+requests==2.5.3
+requests-oauthlib==0.4.2
+terminaltables==1.1.1
+twython==3.2.0
+wsgiref==0.1.2
